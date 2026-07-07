@@ -1,3 +1,16 @@
+## 🔗 Code Repository
+
+The complete source code for this framework is available at:
+
+**https://github.com/avankrish/federated_medical_ai**
+
+## Software Environment
+- Python 3.14.3
+- PyTorch 2.10.0
+- scikit-learn 1.8.0
+- NumPy 2.4.1
+
+---
 # Multi-Disease-FL-Dataset-Archive
 Curated clinical and medical imaging-related datasets for a dual-stage federated learning framework.
 # Privacy-Preserving and Scalable Federated Learning Framework for Multi-Disease Prediction
